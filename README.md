@@ -2,6 +2,9 @@ dview-collapsing-layout
 ![Release](https://jitpack.io/v/dora4/dview-collapsing-layout.svg)
 --------------------------------
 
+#### 卡片
+![DORA视图 裂刃陀螺](https://github.com/user-attachments/assets/d00d03d9-cfac-477a-a879-596debc154a2)
+
 #### Gradle依赖配置
 
 ```groovy
